@@ -1,0 +1,4 @@
+import tensorflow as tf
+
+
+tf.keras.utils.image_dataset_from_directory(r"C:\Users\48792\Desktop\Mgr_project\images")
